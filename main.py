@@ -7,4 +7,4 @@ for a in range(0,1):
 if P %2:
   print('O número',P,'é impar!')
 else:
-  print('O número',P,'é par')    
+  print('O número',P,'é par!')    
